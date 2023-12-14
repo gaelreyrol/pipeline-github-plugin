@@ -6,5 +6,5 @@ work
 .factorypath
 .project
 .settings
-.vscode
 .java-version
+.direnv

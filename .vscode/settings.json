@@ -1,0 +1,12 @@
+{
+    "java.jdt.ls.java.home": "/nix/store/1d33i03mqwfsn334v03r4wdj9bl0vc4i-openjdk-21+35",
+    "java.compile.nullAnalysis.mode": "automatic",
+    "java.configuration.runtimes": [
+        {
+            "name": "JavaSE-21",
+            "path": "/nix/store/1d33i03mqwfsn334v03r4wdj9bl0vc4i-openjdk-21+35/lib/openjdk",
+            "default": true
+        },
+    ],
+    "java.configuration.updateBuildConfiguration": "automatic",
+}
